@@ -1,4 +1,7 @@
-Hello world
-chaitu baba
+Hello world!
+
+chaitu baba.
 
 change for bug 1 fixed.
+
+changes gor bug2 3 way merging.
